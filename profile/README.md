@@ -4,4 +4,4 @@
 
 - Expected Release: (Late 2023)
 
-- [Discord](https://discord.gg/twelvedm)
+- [Join The Discord](https://discord.gg/twelvedm)
