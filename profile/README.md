@@ -2,6 +2,6 @@
 
 - Twelve is a Call Of Duty x Battle Royale Based FiveM Server.
 
-- Expected Release: (Late 2023)
+- Expected Release: 
 
 - [Join The Discord](https://discord.gg/twelvedm)
